@@ -1,0 +1,158 @@
+###############################################
+# Custom Anti‑Ad & Anti‑Telemetry Blocklist
+# Maintained by m
+# Purpose: Block ads, tracking, telemetry,
+#          and content delivery networks
+#          across Windows, Samsung, Reddit,
+#          Microsoft Casual Games, and more.
+###############################################
+
+
+###############################################
+# SAMSUNG AD / TELEMETRY
+###############################################
+||ads.samsung.com^
+||samsungads.com^
+||samsungtvads.com^
+||config.samsungads.com^
+||gpm.samsungqbe.com^
+||gld.push.samsungosp.com^
+||osb.samsungqbe.com^
+||osb-krsvc.samsungqbe.com^
+||notice.samsungcloudsolution.com^
+||notice.samsungcloudsolution.net^
+||noticecdn.samsungcloudsolution.com^
+||noticecdn.samsungcloudsolution.net^
+||api.samsungcloudsolution.com^
+||api.samsungcloudsolution.net^
+||tvplus.samsungcloudsolution.com^
+||tvplus.samsungcloudsolution.net^
+||tvplus-service.samsungcloudsolution.com^
+||tvplus-service.samsungcloudsolution.net^
+||samsungcloud.tv^
+||acr.samsungcloud.tv^
+||acr0.samsungcloudsolution.com^
+
+
+###############################################
+# MICROSOFT AD / TELEMETRY / MSN CONTENT
+###############################################
+||ads.microsoft.com^
+||ad.doubleclick.net^
+||g.msn.com^
+||c.msn.com^
+||assets.msn.com^
+||api.msn.com^
+||browser.events.data.microsoft.com^
+||settings-win.data.microsoft.com^
+||vortex.data.microsoft.com^
+||telemetry.microsoft.com^
+||mobile.events.data.microsoft.com^
+||experiments.microsoft.com^
+||arc.msn.com^
+||arc.msn.com.edgesuite.net^
+||config.edge.skype.com^
+||msedge.net^
+||fp.msedge.net^
+||nexus.officeapps.live.com^
+||officeclient.microsoft.com^
+||storecatalogrevocation.store.microsoft.com^
+||storeedgefd.dsx.mp.microsoft.com^
+
+
+###############################################
+# REDDIT AD / TRACKING
+###############################################
+||reddit-ads.s3.amazonaws.com^
+||ads.reddit.com^
+||ads.redditmedia.com^
+||events.reddit.com^
+||pixel.reddit.com^
+||out.reddit.com^
+||track.reddit.com^
+
+
+###############################################
+# META / FACEBOOK AD NETWORK
+###############################################
+||connect.facebook.net^
+||graph.facebook.com^
+||facebookads.com^
+
+
+###############################################
+# GOOGLE AD NETWORK (AdMob / DoubleClick)
+###############################################
+||admob.com^
+||doubleclick.net^
+||googlesyndication.com^
+||googletagmanager.com^
+||googletagservices.com^
+
+
+###############################################
+# AMAZON AD NETWORK
+###############################################
+||amazon-adsystem.com^
+||aax.amazon-adsystem.com^
+||c.amazon-adsystem.com^
+
+
+###############################################
+# TIKTOK AD / TRACKING
+###############################################
+||ads.tiktok.com^
+||analytics.tiktok.com^
+||log.tiktokv.com^
+
+
+###############################################
+# UNITY ADS (Microsoft Casual Games)
+###############################################
+||unityads.unity3d.com^
+||ads.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+
+
+###############################################
+# APPLOVIN (Microsoft Casual Games)
+###############################################
+||applovin.com^
+||d.applovin.com^
+||rt.applovin.com^
+
+
+###############################################
+# OUTBRAIN / TABOOLA (News ads)
+###############################################
+||outbrain.com^
+||widgets.outbrain.com^
+||taboola.com^
+
+
+###############################################
+# CRITEO / RUBICON / ADNXS (Ad exchanges)
+###############################################
+||criteo.com^
+||criteo.net^
+||rubiconproject.com^
+||adnxs.com^
+||adgrx.com^
+||adsrvr.org^
+
+
+###############################################
+# TRACKING & ANALYTICS SDKs
+###############################################
+||adjust.com^
+||appsflyer.com^
+||branch.io^
+||kochava.com^
+||segment.io^
+||mixpanel.com^
+||amplitude.com^
+
+
+###############################################
+# END OF LIST
+###############################################

@@ -1,0 +1,177 @@
+# ============================
+# SHOPPING – ALLOWLIST
+# ============================
+
+# --- AU ---
+jbhifi.com.au
+*.jbhifi.com.au
+*.auth.jbhifi.com.au
+
+
+# ============================
+# AUSTRALIAN BANKS – ALLOWLIST
+# ============================
+
+# --- ANZ ---
+anz.com
+anz.com.au
+*.anz.com
+*.anz.com.au
+anzdirect.com.au
+secure.anz.com
+online.anz.com
+api.anz.com
+digital.anz.com
+anz.com.au.edgekey.net
+anz.com.au.edgesuite.net
+
+# ANZ Share Investing (formerly ANZ Share Investing / CMC)
+anzshareinvesting.com.au
+*.anzshareinvesting.com.au
+cmcmarkets.com
+*.cmcmarkets.com
+
+# --- Commonwealth Bank (CBA) ---
+commbank.com.au
+*.commbank.com.au
+netbank.com.au
+*.netbank.com.au
+cba.com.au
+*.cba.com.au
+commsec.com.au
+*.commsec.com.au
+trading.commsec.com.au
+api.commbank.com.au
+digital.commbank.com.au
+commbank.com.au.edgekey.net
+commbank.com.au.edgesuite.net
+
+# --- Westpac ---
+westpac.com.au
+*.westpac.com.au
+online.westpac.com.au
+banking.westpac.com.au
+api.westpac.com.au
+digital.westpac.com.au
+westpac.com.au.edgekey.net
+westpac.com.au.edgesuite.net
+westpac.com
+*.westpac.com
+
+# Westpac Online Investing (BT / Panorama)
+bt.com.au
+*.bt.com.au
+panorama.com.au
+*.panorama.com.au
+
+# --- NAB ---
+nab.com.au
+*.nab.com.au
+ib.nab.com.au
+online.nab.com.au
+api.nab.com.au
+nab.com.au.edgekey.net
+nab.com.au.edgesuite.net
+
+# NABtrade
+nabtrade.com.au
+*.nabtrade.com.au
+trading.nabtrade.com.au
+
+# --- Macquarie Bank ---
+macquarie.com
+*.macquarie.com
+macquarie.com.au
+*.macquarie.com.au
+online.macquarie.com.au
+ebank.macquarie.com.au
+trading.macquarie.com.au
+macquarie.com.au.edgekey.net
+macquarie.com.au.edgesuite.net
+
+# --- Bank of Queensland (BOQ) ---
+boq.com.au
+*.boq.com.au
+ib.boq.com.au
+
+# --- Bendigo Bank ---
+bendigobank.com.au
+*.bendigobank.com.au
+ib.bendigobank.com.au
+
+# --- Suncorp ---
+suncorp.com.au
+*.suncorp.com.au
+ibanking.suncorpbank.com.au
+
+# --- ING Australia ---
+ing.com.au
+*.ing.com.au
+secure.ing.com.au
+online.ing.com.au
+ingdirect.com.au
+*.ingdirect.com.au
+
+
+# --- AMP Bank + AMP Investments ---
+amp.com.au
+*.amp.com.au
+northonline.com.au
+*.northonline.com.au
+
+
+# ============================
+# PAYMENT / AUTHENTICATION
+# ============================
+
+# Visa 3-D Secure
+secure.visa.com
+*.secure.visa.com
+
+# Mastercard Identity Check
+mastercard.com
+*.mastercard.com
+idcheck.mastercard.com
+
+# American Express SafeKey
+americanexpress.com
+*.americanexpress.com
+safekey.americanexpress.com
+
+# eftpos Australia
+eftposaustralia.com.au
+*.eftposaustralia.com.au
+
+# PayID / NPP (bank-owned)
+nppa.com.au
+*.nppa.com.au
+payid.com.au
+*.payid.com.au
+
+# ============================
+# COMMON BANKING MFAs (SAFE)
+# ============================
+identity.westpac.com.au
+*.identity.westpac.com.au
+auth.macquarie.com.au
+*.auth.macquarie.com.au
+auth.ing.com.au
+*.auth.ing.com.au
+
+# ============================
+# COMMON BANKING CDNs (SAFE)
+# ============================
+
+# Akamai (bank-specific edges)
+edgekey.net
+edgesuite.net
+akadns.net
+*.akadns.net
+
+# Cloudflare (bank API/CDN)
+cloudflare.com
+*.cloudflare.com
+
+# Fastly (used by CommSec, CMC)
+fastly.net
+*.fastly.net

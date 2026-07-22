@@ -58,7 +58,8 @@
 ||officeclient.microsoft.com^
 ||storecatalogrevocation.store.microsoft.com^
 ||storeedgefd.dsx.mp.microsoft.com^
-
+||scorecardresearch.com^
+||scorecardresearch.net^
 
 ###############################################
 # REDDIT AD / TRACKING

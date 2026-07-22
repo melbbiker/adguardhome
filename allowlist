@@ -175,3 +175,10 @@ cloudflare.com
 # Fastly (used by CommSec, CMC)
 fastly.net
 *.fastly.net
+
+# ============================
+# Facebook MFAs (SAFE)
+# ============================
+graph.facebook.com
+b-api.facebook.com
+b-graph.facebook.com

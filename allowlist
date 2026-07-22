@@ -182,3 +182,12 @@ fastly.net
 graph.facebook.com
 b-api.facebook.com
 b-graph.facebook.com
+
+# ============================
+# Google reCAPTCUA (SAFE)
+# ============================
+www.google.com
+www.gstatic.com
+www.google.com/recaptcha/
+www.gstatic.com/recaptcha/
+recaptcha.google.com

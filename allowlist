@@ -191,3 +191,9 @@ www.gstatic.com
 www.google.com/recaptcha/
 www.gstatic.com/recaptcha/
 recaptcha.google.com
+
+# ============================
+# Required for Microsoft Store (SAFE)
+# ============================
+storeedgefd.dsx.mp.microsoft.com
+cdn.storeedgefd.dsx.mp.microsoft.com
